@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">projeto 3</string>
+    <string name="insira_o_texto">insira o texto</string>
+    <string name="enviar">enviar</string>
+</resources>
